@@ -1,0 +1,16 @@
+PODS:
+  - EasyPodDemo (0.1.0)
+
+DEPENDENCIES:
+  - EasyPodDemo (from `../`)
+
+EXTERNAL SOURCES:
+  EasyPodDemo:
+    :path: "../"
+
+SPEC CHECKSUMS:
+  EasyPodDemo: 5260f0f7e7699ba29868540219d80ea69fc5c012
+
+PODFILE CHECKSUM: 76edcd04aef981dda9954787848caa521339a9c1
+
+COCOAPODS: 1.9.1

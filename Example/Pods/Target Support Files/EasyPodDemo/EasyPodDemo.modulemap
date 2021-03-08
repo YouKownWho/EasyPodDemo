@@ -1,0 +1,6 @@
+framework module EasyPodDemo {
+  umbrella header "EasyPodDemo-umbrella.h"
+
+  export *
+  module * { export * }
+}

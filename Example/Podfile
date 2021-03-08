@@ -1,0 +1,13 @@
+use_frameworks!
+
+platform :ios, '9.0'
+
+target 'EasyPodDemo_Example' do
+  pod 'EasyPodDemo', :path => '../'
+
+  target 'EasyPodDemo_Tests' do
+    inherit! :search_paths
+
+    
+  end
+end
