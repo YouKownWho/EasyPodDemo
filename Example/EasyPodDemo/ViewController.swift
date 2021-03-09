@@ -7,12 +7,17 @@
 //
 
 import UIKit
+import EasyPodDemo
 
 class ViewController: UIViewController {
 
     override func viewDidLoad() {
         super.viewDidLoad()
-        // Do any additional setup after loading the view, typically from a nib.
+
+        let tool = EasyTool()
+        tool.testInstanceFunc()
+        EasyTool.testClassFunc()
+        
     }
 
     override func didReceiveMemoryWarning() {

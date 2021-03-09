@@ -1,18 +1,18 @@
 {
   "name": "EasyPodDemo",
   "version": "0.1.0",
-  "summary": "A short description of EasyPodDemo.",
-  "description": "TODO: Add long description of the pod here.",
-  "homepage": "https://github.com/pengfei.lu/EasyPodDemo",
+  "summary": "This is a pod demo.",
+  "description": "Record pod demo details...",
+  "homepage": "https://github.com/YouKownWho/EasyPodDemo",
   "license": {
     "type": "MIT",
     "file": "LICENSE"
   },
   "authors": {
-    "pengfei.lu": "pengfei.lu@wenba100.com"
+    "Nov": "1106093641@qq.com"
   },
   "source": {
-    "git": "https://github.com/pengfei.lu/EasyPodDemo.git",
+    "git": "https://github.com/YouKownWho/EasyPodDemo.git",
     "tag": "0.1.0"
   },
   "platforms": {

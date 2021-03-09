@@ -9,6 +9,7 @@ import Foundation
 
 
 public class EasyTool {
+    public init() { }
     
     public static func testClassFunc() {
         print("classFunc")
